@@ -1,7 +1,7 @@
 # Fundamentos de Programação Aplicada - PGIA7310
 
-<h1 align="center"></h1>
-![logo2](https://github.com/paulo-prl-lima/provider/assets/70539316/012f8aff-8e83-4fdd-9d7f-dc67518285fb)
+<h1 align="center">![logo2](https://github.com/paulo-prl-lima/provider/assets/70539316/012f8aff-8e83-4fdd-9d7f-dc67518285fb)</h1>
+
 ## App provider
 
 ### Objetivo: Ajude o usuário selecionar serviços de nuvens públicas que apresentem os melhores indicadores de desempenho, dependabilidade e custo.

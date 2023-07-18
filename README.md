@@ -1,11 +1,13 @@
-![gif-provider](https://github.com/paulo-prl-lima/provider/assets/70539316/fd5e2887-57d7-4fd8-97a6-ddcf606a8122)# Fundamentos de Programação Aplicada - PGIA7310
+# Fundamentos de Programação Aplicada - PGIA7310
 
 
 ![logo2](https://github.com/paulo-prl-lima/provider/assets/70539316/012f8aff-8e83-4fdd-9d7f-dc67518285fb).
 
-:construction: Projeto em construção :construction:
+<h15>:construction: Projeto em construção :construction:</h15>
+
 
 ## ✔️ App provider 
+
 
 - ### `Objetivo:` Ajude o usuário selecionar serviços de nuvens públicas que apresentem os melhores indicadores de desempenho, dependabilidade e custo.
 

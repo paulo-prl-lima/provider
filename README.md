@@ -18,8 +18,8 @@
 - ### `Três telas:` 🚧 vai ficar gerando informações uteis em relação a computação em nuvem, segurança,serviços, dicas para economizar com serviços em nuvem, telas navegáveis no projeto mas falta implementar serviços. 
 
 ## 📁 Acesso ao projeto
-- ### https://github.com/paulo-prl-lima/provider
-- ### https://play.google.com/apps/test/com.prl.provider.provider/1 
+- ### https://github.com/paulo-prl-lima/provider - github
+- ### https://play.google.com/apps/test/com.prl.provider.provider/1 - Google Play - Apenas Testadores
 ![gif-provider](https://github.com/paulo-prl-lima/provider/assets/70539316/41af9f3a-3d4a-43f5-a703-04c9566fcd1f)
 
 

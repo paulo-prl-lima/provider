@@ -3,7 +3,7 @@
 
 ![logo2](https://github.com/paulo-prl-lima/provider/assets/70539316/012f8aff-8e83-4fdd-9d7f-dc67518285fb).
 
-👷🔥:construction: Projeto em construção :construction:🔥👷
+👷🔥:construction: Projeto em Desenvolvimento :construction:🔥👷
 
 
 ## ✔️ App provider 

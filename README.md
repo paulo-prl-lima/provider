@@ -11,7 +11,7 @@
 - ### `Objetivo:` Ajuda o usuário selecionar serviços de nuvens públicas que apresentem os melhores indicadores de desempenho, dependabilidade e custo.
 
 ## Apresentação do APP - Vídeo
-- ### `Apresentaação:` <a href="https://youtu.be/P2pFw9yDF1c">Víedo</a>
+- ### `Apresentação:` <a href="https://youtu.be/P2pFw9yDF1c">Link Vídeo</a>
 
 ## 🔨 Funcionalidades
 - ### `Tela de Login:` funcionando, melhorias futuras fazer login por firebase;

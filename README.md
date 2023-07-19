@@ -18,6 +18,7 @@
 - ### `Três telas:` 🚧 vai ficar gerando informações uteis em relação a computação em nuvem, segurança,serviços, dicas para economizar com serviços em nuvem, telas navegáveis no projeto mas falta implementar serviços. 
 
 ## 📁 Acesso ao projeto
+
 - ### https://github.com/paulo-prl-lima/provider - github
 - ### [https://play.google.com/apps/test/com.prl.provider.provider/1](https://play.google.com/apps/internaltest/4701232423698128489) - Google Play - Apenas Testadores (login: email@email.com - senha: teste)
 - ### https://www.figma.com/file/18h7OSLK8Hs6a7RTRZr9yT/nuvem?type=design&node-id=63-18&mode=design - Protótipo Figma
@@ -25,8 +26,9 @@
 
 
 ## ✔️ Telas - Widget Tree - Diagrama de Navegação de Telas
+
 - ### `Tela de Login:`
-![image](https://github.com/paulo-prl-lima/provider/assets/70539316/0c03e0e8-4dbd-41c7-9cc5-41bc2dbdce84)
+![image](https://github.com/paulo-prl-lima/provider/assets/70539316/d7501b40-a967-4420-b701-f8ba536ef875)
 - ### <a href="https://disco-continent-e6e.notion.site/rvore-Completa-Login_Page-f4ac03126eb04afaa6163269c53c4319?pvs=4" target="_blank"> Árvore Completa - Tela Login </a>
 
 - ### `Tela de Main Page:`
@@ -44,12 +46,3 @@
 - ### `Tela Pagina3:`
 ![image](https://github.com/paulo-prl-lima/provider/assets/70539316/8ce5e4dd-888f-4226-91e9-d132367a721c)
 - ### <a href="https://disco-continent-e6e.notion.site/rvore-Completa-Pagina3-1bc2dadfac964c92a669066a29e5ef82?pvs=4" > Árvore Completa - Tela Pagina3</a>
-
-
-
-
-
-
-
-
-

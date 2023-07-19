@@ -10,7 +10,7 @@
 
 - ### `Objetivo:` Ajuda o usuário selecionar serviços de nuvens públicas que apresentem os melhores indicadores de desempenho, dependabilidade e custo.
 
-## Apresentação do APP - Vídeo
+## ✔️ Apresentação do APP - Vídeo
 - ### `Apresentação:` <a href="https://youtu.be/P2pFw9yDF1c">Link Vídeo</a>
 
 ## 🔨 Funcionalidades

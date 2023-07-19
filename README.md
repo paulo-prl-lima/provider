@@ -19,7 +19,7 @@
 
 ## 📁 Acesso ao projeto
 - ### https://github.com/paulo-prl-lima/provider - github
-- ### [https://play.google.com/apps/test/com.prl.provider.provider/1](https://play.google.com/apps/internaltest/4701232423698128489) - Google Play - Apenas Testadores
+- ### [https://play.google.com/apps/test/com.prl.provider.provider/1](https://play.google.com/apps/internaltest/4701232423698128489) - Google Play - Apenas Testadores (login: email@email.com - senha: teste)
 ![gif-provider](https://github.com/paulo-prl-lima/provider/assets/70539316/41af9f3a-3d4a-43f5-a703-04c9566fcd1f)
 
 
